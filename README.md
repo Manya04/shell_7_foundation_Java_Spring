@@ -21,6 +21,8 @@ The development team will establish Azure Boards to manage the Agile/Scrum proje
 
 Developers will fork the main GitHub repository (https://github.com/hrb1989/shell\_7\_foundation\_Java\_Spring) into their local environments. They will create feature branches to work on specific enhancements or tasks related to the Java Spring Boot application.
 
+## Createing pull request.
+
 ## Azure VM Configuration:
 
 The IT team will configure a virtual machine (VM) on Azure with specific performance and resource specifications to accommodate the development needs.
